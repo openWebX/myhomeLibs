@@ -1,0 +1,8 @@
+{
+  "name": "openwebx/myhomelibs",
+  "autoload": {
+    "psr-0" : {
+      "openWebX\\myhomeLibs" : "src"
+    }
+  }
+}

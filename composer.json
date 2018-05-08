@@ -4,5 +4,9 @@
     "psr-0" : {
       "openWebX\\myhomeLibs" : "src"
     }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "bluerhinos/phpmqtt": "dev-master"
   }
 }
